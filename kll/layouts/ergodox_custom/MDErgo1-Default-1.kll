@@ -1,0 +1,73 @@
+Name = "MDErgo1";
+Variant = "standard";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+U"ESC" : U"F6";
+U"5" : U"F5";
+U"4" : U"F4";
+U"3" : U"F3";
+U"2" : U"F2";
+U"1" : U"F1";
+U"EQUALS" : U"ESC";
+U"FUNCTION1" : U"PRINTSCREEN";
+U"T" : '^';
+U"R" : U"PAGEUP";
+U"E" : U"UP";
+U"W" : U"HOME";
+U"Q" : '*';
+U"G" : '&';
+U"F" : U"RIGHT";
+U"D" : U"DOWN";
+U"S" : U"LEFT";
+U"A" : '@';
+U"FUNCTION2" : U"PAUSE";
+U"B" : '!';
+U"V" : U"PAGEDOWN";
+U"C" : U"P,";
+U"X" : U"END";
+U"Z" : U"INSERT";
+U"END" : U"FUN3";
+U"FUNCTION6" : U"F6";
+U"6" : U"F7";
+U"7" : U"F8";
+U"8" : U"F9";
+U"9" : U"F10";
+U"0" : U"F11";
+U"MINUS" : U"F12";
+U"LBRACE" : U"NUMLOCK";
+U"Y" : U"P/";
+U"U" : U"P7";
+U"I" : U"P8";
+U"O" : U"P9";
+U"P" : U"P-";
+U"H" : U"P*";
+U"J" : U"P4";
+U"K" : U"P5";
+U"L" : U"P6";
+U"SEMICOLON" : U"P+";
+U"QUOTE" : U"RCTRL";
+U"FUNCTION7" : U"SCROLLLOCK";
+U"N" : '(';
+U"M" : U"P1";
+U"COMMA" : U"P2";
+U"PERIOD" : U"P3";
+U"SLASH" : ')';
+U"PAGEDOWN" : U"FUN3";
+U"DOWN" : U"P0";
+U"UP" : U"P.";
+U"RIGHT" : U"P=";
+
+
+
+
+#~~~START ANIMATION (${__NAME__}) INJECTION~~~#
+
+#~~~END ANIMATION (${__NAME__}) INJECTION~~~#
+
+

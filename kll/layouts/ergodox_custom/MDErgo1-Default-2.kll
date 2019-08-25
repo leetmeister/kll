@@ -1,0 +1,36 @@
+Name = "MDErgo1";
+Variant = "standard";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+U"ESC" : CONS"SCANNEXTTRACK";
+U"5" : CONS"PAUSEPLAY";
+U"4" : CONS"SCANPREVIOUSTRACK";
+U"3" : CONS"VOLUMEUP";
+U"2" : CONS"VOLUMEDOWN";
+U"1" : CONS"MUTE";
+U"EQUALS" : ledControl( 5, 255 );
+U"FUNCTION6" : CONS"BRIGHTNESSDECREMENT";
+U"6" : CONS"BRIGHTNESSINCREMENT";
+U"MINUS" : CONS"CALCULATOR";
+U"Y" : mouseOut( 4, 0, 0 );
+U"U" : mouseOut( 1, 0, 0 );
+U"I" : mouseOut( 0, 0, -5 );
+U"O" : mouseOut( 2, 0, 0 );
+U"P" : mouseOut( 3, 0, 0 );
+U"H" : mouseOut( 5, 0, 0 );
+U"J" : mouseOut( 0, -5, 0 );
+U"K" : mouseOut( 0, 0, 5 );
+U"L" : mouseOut( 0, 5, 0 );
+U"M" : mouseOut( 0, -1, 0 );
+U"COMMA" : mouseOut( 0, 0, -1 );
+U"PERIOD" : mouseOut( 0, 0, 1 );
+U"SLASH" : mouseOut( 0, 1, 0 );
+
+
+
